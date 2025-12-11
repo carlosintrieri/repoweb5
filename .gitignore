@@ -1,0 +1,25 @@
+# Eclipse, IntelliJ e VSCode
+.idea/
+*.iml
+*.classpath
+*.project
+
+# Compilados e pastas de build
+/target/
+/out/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dependências
+*.jar
+*.war
+
+# Spring Boot específico
+spring-boot-devtools.properties

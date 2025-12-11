@@ -1,0 +1,9 @@
+C:\Users\Carlos\Desktop\DEV III - LISTAS\PASTA FINAL WEB III\finalzinho-roles\auth-service\src\main\java\com\automanager\auth\controller\AuthController.java
+C:\Users\Carlos\Desktop\DEV III - LISTAS\PASTA FINAL WEB III\finalzinho-roles\auth-service\src\main\java\com\automanager\auth\service\AuthService.java
+C:\Users\Carlos\Desktop\DEV III - LISTAS\PASTA FINAL WEB III\finalzinho-roles\auth-service\src\main\java\com\automanager\auth\AuthServiceApplication.java
+C:\Users\Carlos\Desktop\DEV III - LISTAS\PASTA FINAL WEB III\finalzinho-roles\auth-service\src\main\java\com\automanager\auth\dto\LoginResponse.java
+C:\Users\Carlos\Desktop\DEV III - LISTAS\PASTA FINAL WEB III\finalzinho-roles\auth-service\src\main\java\com\automanager\auth\repository\UsuarioRepository.java
+C:\Users\Carlos\Desktop\DEV III - LISTAS\PASTA FINAL WEB III\finalzinho-roles\auth-service\src\main\java\com\automanager\auth\dto\LoginRequest.java
+C:\Users\Carlos\Desktop\DEV III - LISTAS\PASTA FINAL WEB III\finalzinho-roles\auth-service\src\main\java\com\automanager\auth\security\JwtUtil.java
+C:\Users\Carlos\Desktop\DEV III - LISTAS\PASTA FINAL WEB III\finalzinho-roles\auth-service\src\main\java\com\automanager\auth\model\Usuario.java
+C:\Users\Carlos\Desktop\DEV III - LISTAS\PASTA FINAL WEB III\finalzinho-roles\auth-service\src\main\java\com\automanager\auth\security\SecurityConfig.java
