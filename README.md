@@ -2226,7 +2226,7 @@ automanager-final/
 
 ## 🎓 Desenvolvido para
 
-**Atividade:** ATVV - Desenvolvimento de Software III  
+**Atividade:** ATVV - Desenvolvimento Web III  
 **Professor:** Dr. Eng. Gerson Penha  
 **Instituição:** Fatec São José dos Campos  
 **Ano:** 2024  
